@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T11:14:19.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="swy5H3H4vHE-URGRdvdD" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T11:16:40.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="RKrCt30lGHGkEu96jNKB" version="24.6.3" type="github">
   <diagram name="Seite-1" id="RwtbkHIzHLmDUBqfZZSh">
     <mxGraphModel dx="1981" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,29 +185,29 @@
         <mxCell id="YhDyGu8W53t1k5ZHfjgd-69" value="&lt;div&gt;Wordpress&lt;br&gt;&lt;/div&gt;&lt;div&gt;V104&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="600" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YhDyGu8W53t1k5ZHfjgd-71" value="&lt;div&gt;Shinobi&lt;/div&gt;&lt;div&gt;V106&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhDyGu8W53t1k5ZHfjgd-71" value="&lt;div&gt;Shinobi&lt;/div&gt;&lt;div&gt;V112&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="600" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YhDyGu8W53t1k5ZHfjgd-74" value="&lt;div&gt;Nextcloud&lt;/div&gt;&lt;div&gt;V105&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhDyGu8W53t1k5ZHfjgd-74" value="&lt;div&gt;Nextcloud&lt;/div&gt;&lt;div&gt;V111&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="530" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YhDyGu8W53t1k5ZHfjgd-76" value="&lt;div&gt;Pfsense&lt;/div&gt;&lt;div&gt;V101&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="530" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YhDyGu8W53t1k5ZHfjgd-77" value="PiHole" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhDyGu8W53t1k5ZHfjgd-77" value="&lt;div&gt;PiHole&lt;/div&gt;&lt;div&gt;V121&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="530" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YhDyGu8W53t1k5ZHfjgd-78" value="&lt;div&gt;Wireguard&lt;/div&gt;&lt;div&gt;Server&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhDyGu8W53t1k5ZHfjgd-78" value="&lt;div&gt;Wireguard&lt;/div&gt;&lt;div&gt;V122&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="570" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YhDyGu8W53t1k5ZHfjgd-79" value="Obsidian" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhDyGu8W53t1k5ZHfjgd-79" value="&lt;div&gt;Obsidian&lt;/div&gt;V123" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="610" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YhDyGu8W53t1k5ZHfjgd-82" value="&lt;div&gt;Python &lt;br&gt;&lt;/div&gt;&lt;div&gt;Scripts&lt;br&gt;&lt;/div&gt;&lt;div&gt;V107&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhDyGu8W53t1k5ZHfjgd-82" value="&lt;div&gt;Python &lt;br&gt;&lt;/div&gt;&lt;div&gt;Scripts&lt;br&gt;&lt;/div&gt;&lt;div&gt;V113&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="670" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YhDyGu8W53t1k5ZHfjgd-83" value="Git Server" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="650" width="70" height="30" as="geometry" />
+        <mxCell id="YhDyGu8W53t1k5ZHfjgd-83" value="&lt;div&gt;Git Server&lt;/div&gt;V124" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="650" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YhDyGu8W53t1k5ZHfjgd-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhDyGu8W53t1k5ZHfjgd-84">
           <mxGeometry relative="1" as="geometry">
