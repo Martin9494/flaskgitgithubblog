@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T11:43:27.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="mZG_Rd6q6H9ALDNvC9kE" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T11:53:47.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="pHAkJzx4_cYge4u_EB2R" version="24.6.3" type="github">
   <diagram name="Seite-1" id="RwtbkHIzHLmDUBqfZZSh">
     <mxGraphModel dx="1981" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,6 +208,9 @@
         <mxCell id="YhDyGu8W53t1k5ZHfjgd-79" value="&lt;div&gt;Obsidian&lt;/div&gt;V123" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="610" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YhDyGu8W53t1k5ZHfjgd-116" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhDyGu8W53t1k5ZHfjgd-82" target="YhDyGu8W53t1k5ZHfjgd-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YhDyGu8W53t1k5ZHfjgd-82" value="&lt;div&gt;Python &lt;br&gt;&lt;/div&gt;&lt;div&gt;Scripts&lt;br&gt;&lt;/div&gt;&lt;div&gt;V113&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="20" y="670" width="70" height="60" as="geometry" />
         </mxCell>
@@ -232,7 +235,7 @@
           <mxGeometry x="-140" y="738" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhDyGu8W53t1k5ZHfjgd-89" value="LXC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="185" y="738" width="40" height="30" as="geometry" />
+          <mxGeometry x="185" y="768" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhDyGu8W53t1k5ZHfjgd-90" value="&lt;div&gt;32GB RAM&lt;/div&gt;&lt;div&gt;6-12 cores&lt;/div&gt;&lt;div&gt;1 TB maybe (2-4 ssd&#39;s)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-205" y="353" width="150" height="60" as="geometry" />
@@ -340,6 +343,22 @@
             <mxPoint x="570" y="80" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YhDyGu8W53t1k5ZHfjgd-114" value="&lt;div&gt;INTRANET&amp;nbsp;&amp;nbsp; V125&lt;br&gt;&lt;/div&gt;&lt;div&gt;(gui for data in database) &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="690" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YhDyGu8W53t1k5ZHfjgd-117" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhDyGu8W53t1k5ZHfjgd-115" target="YhDyGu8W53t1k5ZHfjgd-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="820" />
+              <mxPoint y="820" />
+              <mxPoint y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhDyGu8W53t1k5ZHfjgd-115" value="&lt;div&gt;postgres database&lt;/div&gt;V126" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="730" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
